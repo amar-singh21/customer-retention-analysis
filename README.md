@@ -13,3 +13,5 @@ This Pull Request contains:
 - Python code (`analysis.py`) analyzing the quarterly data
 - Visualization (`retention_trend.png`) showing trends vs. industry benchmark
 - Data story and recommendations for management
+This analysis and visualization were generated using Jules (ChatGPT Codex): https://chatgpt.com/codex/tasks
+
